@@ -34,7 +34,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
 
-### Analysis List
+### Business Analysis List
 
 1. Product Analysis
 
